@@ -2,7 +2,7 @@
 #####  I hope you are well and that you will stay a little longer :).
 ### Skills and Experience
 ###### Front-End
-* <img src="https://github.com/Mattarek/Mattarek/assets/88492272/90cb0e8e-4ebb-4bd8-a8b9-7b8c27210866" alt="HTML emoji" height="15"/> HTML
+* <img src="https://github.com/Mattarek/Mattarek/blob/main/html.png?raw=true" alt="HTML emoji" height="15"/> HTML
 * <img src="https://github.com/Mattarek/Mattarek/assets/88492272/e4f4559f-d4bf-4a23-9480-86dec841054d" alt="CSS emoji" height="15"/> CSS
 * <img src="https://github.com/Mattarek/Mattarek/assets/88492272/dc36d6ce-2ed2-41f6-9a24-2db9a46dbeaf" alt="JS emoji" height="15"/> JavaScript
 * <img src="https://github.com/Mattarek/Mattarek/assets/88492272/a3d7123f-4d07-4bd1-b89c-2d80c2fa318c" alt="TS emoji" height="15"/> TypeScript
