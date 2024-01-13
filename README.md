@@ -11,7 +11,7 @@
 
 ###### Back-End
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/node-js.png?raw=true" alt="Node emoji" height="15"/> Node
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/express.png?raw=true" alt="Express emoji" height="15"/> Express
+* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/expressjs.png?raw=true" alt="Express emoji" height="15"/> Express
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/mysql.png?raw=true" alt="MySQL emoji" height="15"/> MySQL
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/MongoDB.png?raw=true" alt="MongoDB emoji" height="15"/> MongoDB
 
