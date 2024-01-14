@@ -21,4 +21,7 @@
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/linux.png?raw=true" alt="Linux emoji" height="15"/> Linux
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/gnu-bash.png?raw=true" alt="Bash emoji" height="15"/> Bash
 
-
+###### Summary
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattarek&show_icons=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattarek&layout=compact)
