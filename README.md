@@ -1,5 +1,5 @@
 ## ⚡ Thanks for visiting my profile ⚡
-#### About Me
+### :scroll: About Me
 ##### 💼 Hi, my name's Marcin, and I’m currently working as a Linux administrator.
 ##### 😃 I'm a big fan of football, energy drinks and programming.
 ##### 🤩 I hope you are well and that you will stay a little longer :).
