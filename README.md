@@ -25,5 +25,7 @@
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/Git-Icon-1788C.png?raw=true" alt="Apache emoji" height="15"/> Git
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/Docker_(container_engine)_logo.png?raw=true" alt="Nginx emoji" height="15"/> Docker
 
+[![](https://visitcount.itsvg.in/api?id=Mattarek&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 ###### Summary
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattarek&show_icons=true&theme=radical)
