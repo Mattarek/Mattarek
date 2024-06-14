@@ -1,5 +1,8 @@
 ## ⚡ Thanks for visiting my profile ⚡
+##### 😃 Hi, my name's Marcin, and I’m currently working as a Linux administrator.
+##### I'm a big fan of football, energy drinks and programming.
 #####  I hope you are well and that you will stay a little longer :).
+
 ### 💻 Tech Stack:
 ###### Front-End
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/html.png?raw=true" alt="HTML emoji" height="15"/> HTML
