@@ -1,6 +1,6 @@
 ## ⚡ Thanks for visiting my profile ⚡
 #####  I hope you are well and that you will stay a little longer :).
-### Skills and Experience
+### 💻 Tech Stack:
 ###### Front-End
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/html.png?raw=true" alt="HTML emoji" height="15"/> HTML
 * <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/css-3.png?raw=true" alt="CSS emoji" height="15"/> CSS
