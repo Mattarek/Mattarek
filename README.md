@@ -1,27 +1,39 @@
-## ⚡ Thanks for visiting my profile ⚡
-### :scroll: About Me
-##### 💼 Hi, my name's Marcin, and I’m currently working as a Linux administrator.
-##### 😃 I'm a big fan of football, energy drinks and programming.
-##### 🤩 I hope you are well and that you will stay a little longer :).
-##### 🤝 E-mail: [Marcin](mailto:marb637@gmail.com)
-### 💻 Tech Stack:
-###### Front-End
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/html.png?raw=true" alt="HTML emoji" height="15"/> HTML
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/css-3.png?raw=true" alt="CSS emoji" height="15"/> CSS
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/js.png?raw=true" alt="JS emoji" height="15"/> JavaScript
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/typescript.png?raw=true" alt="TS emoji" height="15"/> TypeScript
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/react.png" alt="React emoji" height="15"/> React
+# Hi, I'm Marcin! 👋
 
-###### Server
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/apache.png?raw=true" alt="Apache emoji" height="15"/> Apache
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/linux.png?raw=true" alt="Linux emoji" height="15"/> Linux
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/gnu-bash.png?raw=true" alt="Bash emoji" height="15"/> Bash
+I'm a **Linux System Administrator** with **6+ years of experience**.  
+I love solving problems, optimizing servers, and automating everything I can. 🚀  
 
-###### Tools
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/Git-Icon-1788C.png?raw=true" alt="Apache emoji" height="15"/> Git
-* <img src="https://github.com/Mattarek/Mattarek/blob/main/assets/Docker_(container_engine)_logo.png?raw=true" alt="Nginx emoji" height="15"/> Docker
+My daily tools include **Linux**, **Bash**, **GitLab**, **DirectAdmin**, and **KVM/OpenVZ virtualization**.  
 
-[![](https://visitcount.itsvg.in/api?id=Mattarek&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+Outside of work, I enjoy experimenting with new technologies and learning something new every day. 💻✨  
 
-###### Summary
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattarek&show_icons=true&theme=radical)
+## 💫 About Me
+
+- 💼 Currently working as a Linux System Administrator  
+- 😃 Big fan of football, energy drinks, and programming  
+- 🤩 Always eager to learn and explore new tech  
+- 📧 Contact me: [marb637@gmail.com](mailto:marb637@gmail.com)  
+
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mattarek&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mattarek&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mattarek&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/244912387851943937) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcinbarc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcin-barć-7a3b98225) 
+
+
+<br/><br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mattarek&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
