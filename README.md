@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm Marcin! 👋
+ Hi, I'm Marcin! 👋
 
 I'm a **Linux System Administrator** with **6+ years of experience**.  
 I love solving problems, optimizing servers, and automating everything I can. 🚀  
@@ -61,7 +61,6 @@ Now, I'm taking a step towards **programming**, exploring **Java, TypeScript, Re
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
----
 
 ## ⚡ Stats ⚡
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mattarek&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -69,7 +68,6 @@ Now, I'm taking a step towards **programming**, exploring **Java, TypeScript, Re
 <br/>
 <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mattarek&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
----
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/244912387851943937) 
