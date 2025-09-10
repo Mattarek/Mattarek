@@ -44,7 +44,7 @@ Now, I'm taking a step towards **programming**, exploring **Java, TypeScript, Re
 <div align="center">
 <br><br>
 <br><br>
-
+<br/><br/>
   
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
