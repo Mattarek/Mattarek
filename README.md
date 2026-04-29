@@ -1,5 +1,6 @@
 <div align="center">
- Hi, I'm Marcin! 👋
+
+Hi, I'm Marcin! 👋
 
 I'm a **Linux System Administrator** with **6+ years of experience**.  
 I love solving problems, optimizing servers, and automating everything I can. 🚀  
@@ -9,42 +10,37 @@ My daily tools include **Linux**, **Bash**, **GitLab**, **DirectAdmin**, and **K
 Outside of work, I enjoy experimenting with new technologies and learning something new every day. 💻✨  
 Now, I'm taking a step towards **programming**, exploring **Java, TypeScript, React**, and building projects to expand my software development skills. 👨‍💻🔥
 
+</div>
+
+<div  align="center">
+
 ## 💫 About Me
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50">
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 <br><br>
 
- 🔭 I’m currently open to a new Job <br>
- 😃 Big fan of football, energy drinks, and programming  <br>
- 🌱 I’m currently learning **Java** <br>
- 🤩 Always eager to learn and explore new tech<br> 
- 💬 Ask me about **Java, React** <br>
- 📫 How to reach me **marb637@gmail.com** <br>
+🔭 I’m currently open to a new Job  
+😃 Big fan of football, energy drinks, and programming  
+🌱 I’m currently learning **Java**  
+🤩 Always eager to learn and explore new tech  
+💬 Ask me about **Java, React**  
+📫 How to reach me **marb637@gmail.com**  
+
 </div>
 
 <br><br>
 <br><br>
 <div align="center">
+
 <br><br>
-<br><br>
-<br/><br/>
   
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
